@@ -9,8 +9,6 @@ import os
 
 intents = discord.Intents.default()
 intents.message_content = True
-intents.typing = False
-intents.presences = False
 intents.guilds = True
 intents.members = True
 intents.messages = True
@@ -42,3 +40,4 @@ bot.run(token)
 
 # TEMPLATE BY GREENY > (Discord: @greenydev)
 # Contact me for questions or suggestions
+# Made by me as template for my own bots
