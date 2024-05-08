@@ -42,7 +42,7 @@ Scroll down again and select the permissions you bot should have or need. For my
 
 After you've selected your permissions right, click "copy" on the left bottom corner like int the picture above. This is your link to invite your bot to your server!
 
-## STEP TWO: Invite your bot and bring it online
+## STEP TWO: Invite your bot
 
 Open a new tab in your browser and insert your copied link. 
 
@@ -68,3 +68,9 @@ When you open your own discord server, you should see, that the bot joined it.
 
 ![image](https://github.com/greenyydev/PyCord-Bot-Template_Greeny/assets/65386324/61d27c29-732e-4d72-82d5-b688608e2ade)
 
+## STEP THREE: Download the Repository and bring your bot online
+
+Open Visual Studio Code or another developing application. If you don't know how to clone a repository just download a zip or search for a tutorial on how to download and clone github repositorys.
+
+
+*to be continued...*
