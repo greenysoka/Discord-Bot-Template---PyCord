@@ -6,6 +6,7 @@ import dotenv                                           #pip install python-dote
 dotenv.load_dotenv()
 import os
 
+from commands.cogcmd import COG #import the cog command from commands/cogcmd.py
 
 intents = discord.Intents.default()
 intents.message_content = True
