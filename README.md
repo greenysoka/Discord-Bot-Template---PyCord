@@ -72,5 +72,29 @@ When you open your own discord server, you should see, that the bot joined it.
 
 Open Visual Studio Code or another developing application. If you don't know how to clone a repository just download a zip or search for a tutorial on how to download and clone github repositorys.
 
+![image](https://github.com/greenyydev/Discord-Bot-Template---PyCord/assets/65386324/f91211c3-b52e-4445-a749-638c7d9f57eb)
 
-*to be continued...*
+So, the repository is opened and you see the code. Next, go back to your Developer Portal and the Bot tab. 
+Klick "Reset Bot Token":
+
+![image](https://github.com/greenyydev/Discord-Bot-Template---PyCord/assets/65386324/b84aeabe-4063-400f-931b-fb30d1026036)
+
+Copy your token by clicking the button. 
+
+![bottoken](https://github.com/greenyydev/Discord-Bot-Template---PyCord/assets/65386324/daf6d607-d46f-45df-982f-81005cd4d269)
+
+Now go to your developing application and open the .env file:
+
+![image](https://github.com/greenyydev/Discord-Bot-Template---PyCord/assets/65386324/6b68aa89-12c9-4035-9da8-618de4394a2b)
+
+Paste your copied token behind the "TOKEN = " text. 
+Once done, close the .env file again and move to main.py. 
+All you have to do left is to execute this file. 
+
+![image](https://github.com/greenyydev/Discord-Bot-Template---PyCord/assets/65386324/1b173c40-b0ce-4a4c-ae63-5f871ea55c49)
+
+![image](https://github.com/greenyydev/Discord-Bot-Template---PyCord/assets/65386324/6de916f6-8645-45d3-ad06-dd7870b669c5)
+
+### Your Bot should be online!
+
+If you need any help with issues or problems, please contact me on discord: @greenydev
