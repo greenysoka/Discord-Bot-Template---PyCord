@@ -3,7 +3,7 @@
 
 This repository is for me and for everyone who wants to start coding discord bots with Py-Cord (Python).
 I'll provide a short instruction to help you starting.
-If you need any help please contact me on discord: @greenydev.
+If you need any help please contact me on discord: **@greenysoka**
 
 ### CONSIDER
 This is not an official template from Py-cord developers. It is essentially a template for myself so that I don't have to start from scratch with every bot. 
@@ -97,4 +97,4 @@ All you have to do left is to execute this file.
 
 ### Your Bot should be online!
 
-If you need any help with issues or problems, please contact me on discord: @greenydev
+If you need any help with issues or problems, please contact me on discord: **@greenysoka**
