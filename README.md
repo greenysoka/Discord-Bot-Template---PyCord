@@ -98,3 +98,7 @@ All you have to do left is to execute this file.
 ### Your Bot should be online!
 
 If you need any help with issues or problems, please contact me on discord: **@greenysoka**
+
+
+You don't want to code your own bot? I got you!
+Join https://dsc.gg/gyxcreative and order your own fully customized discord bot! Without any work for you :3

@@ -7,7 +7,7 @@ dotenv.load_dotenv()
 import os
 import yaml                                             # pip install pyyaml
 from datetime import datetime
-import pytz
+import pytz                                             #pip install pytz
 import random
 
 from commands.cogcmd import COG                         #import the cog command
@@ -86,7 +86,7 @@ async def change_status():
     f"chatting with {member_count} users", version
 ]
     new_status = random.choice(status_messages)
-    await bot.change_presence(activity=discord.CustomActivity(new_status), status=discord.Status.idle)
+    await bot.change_presence(activity=discord.CustomActivity(new_status), status=discord.Status.Online)
 
 
 
